@@ -1,0 +1,7 @@
+.center{
+    display:flex;
+    text-align:left;
+}
+.center tr th p{
+    color:red;
+}
