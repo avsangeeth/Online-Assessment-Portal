@@ -22,7 +22,7 @@ step 3: Run ```pip list``` and make shue all the below pakages installed.
             pip             21.1.3, 
             setuptools      57.1.0, 
             Werkzeug        2.0.1, ```
-## Current data to Run.
+## Current Data to Run.
 There are 3 users(you can add many more);
 
         1) username:avsangeeth372@gmail.com
