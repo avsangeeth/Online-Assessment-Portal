@@ -27,7 +27,7 @@ There are 3 users(you can add many more);
 
         1) username:avsangeeth372@gmail.com
            password:abc123@
-The above user attended only 2 quetions remaining 3
+The above user attended only 2 quetions remaining 3.
 
 ---------------------------------------------------------------------
         2) username:seenu23@gmail.com
