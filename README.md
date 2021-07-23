@@ -11,7 +11,7 @@ This online assessment portal has a list of 5 questions. These questions are fet
            1)pip install flask
 
            2)pip install mysql-connector
-step 3: Run ```pip list``` and make shue all the below pakages installed.
+step 3: Run ```pip list``` and make sure that all the below pakages installed.
             ```click           8.0.1, 
             colorama        0.4.4, 
             Flask           2.0.1, 
