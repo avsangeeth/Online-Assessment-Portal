@@ -12,8 +12,8 @@ The below show the basic user interface and basic operation of the app.
 
            2)pip install mysql-connector
 step 3: Run ```pip list``` and make shue all the below pakages installed.
-          ``` Package         Version
-           --------------- -------
+          > Package         Version
+            --------------- -------
             click           8.0.1
             colorama        0.4.4
             Flask           2.0.1
@@ -23,7 +23,7 @@ step 3: Run ```pip list``` and make shue all the below pakages installed.
             mysql-connector 2.2.9
             pip             21.1.3
             setuptools      57.1.0
-            Werkzeug        2.0.1```
+            Werkzeug        2.0.1>
 ## Current data to Run.
 There are 3 users(you can add many more);
 
